@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🐍 I'm currently learning Python
-- 🤖 I'm looking for help with training ML models
-- 🔭 I’m currently working on a Machine Learning application with a focus on NLP
+
 
 <!--
 **fantreatment/fantreatment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
